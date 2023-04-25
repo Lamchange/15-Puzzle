@@ -1,6 +1,6 @@
 # 15-Puzzle
 
-15-Puzzle writen in Python with support for finding optimal solving method using A*and IDA* search algorithms.
+15-Puzzle writen in Python with support for finding optimal solving method using A\* and IDA\* search algorithms.
 
 Run the project:
 
