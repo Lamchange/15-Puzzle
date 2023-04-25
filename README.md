@@ -8,4 +8,6 @@ Run the project:
 python puzzle.py
 ```
 
+Screenshot:
+
 ![Screenshot](https://raw.githubusercontent.com/rQBx91/15-Puzzle/main/Screenshot.png)
